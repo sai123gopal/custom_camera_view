@@ -13,6 +13,9 @@ Display the 2 image URLs along with the images retrieved from the network.
 2. Connect with your firebase account and change Firebase storage security rules to allow read,write to true.
 3. Build and Run the project.
 
+# Download apk.
+https://github.com/sai123gopal/custom_camera_view/releases/download/v1/app-debug.apk
+
 # Sample screenshots
 
 
