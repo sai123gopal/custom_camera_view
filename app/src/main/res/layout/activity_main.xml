@@ -33,6 +33,11 @@
 
                     <TextView
                         android:id="@+id/image1Text"
+                        android:layout_marginHorizontal="10dp"
+                        android:autoLink="all"
+                        android:textSize="18sp"
+                        android:layout_marginTop="10dp"
+                        android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
                     </TextView>
@@ -62,6 +67,11 @@
 
                     <TextView
                         android:id="@+id/image2Text"
+                        android:autoLink="all"
+                        android:textSize="18sp"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
                     </TextView>
